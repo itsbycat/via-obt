@@ -1,0 +1,10 @@
+{
+	"console": {
+		"prefix": ">> ",
+		"error": "!! ERROR !!",
+		"ready": "Bot ready! File edited by ByCat!"
+	},
+	"bot": {
+		"token": "TOKEN HERE"
+	}
+}
