@@ -2,7 +2,7 @@
 	"console": {
 		"prefix": ">> ",
 		"error": "!! ERROR !!",
-		"ready": "Bot a ready! File edited by ByCat!"
+		"ready": "Bot ready! File edited by ByCat!"
 	},
 	"bot": {
 		"token": "TOKEN HERE"
